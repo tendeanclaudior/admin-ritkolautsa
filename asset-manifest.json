@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/admin-ritkolautsa/static/css/main.186f4810.css",
+    "main.js": "/github.io/admin-ritkolautsa/static/js/main.ae702b0b.js",
+    "static/media/img-bg2.png": "/github.io/admin-ritkolautsa/static/media/img-bg2.8d4d6bdb65c22dc62a30.png",
+    "index.html": "/github.io/admin-ritkolautsa/index.html",
+    "main.186f4810.css.map": "/github.io/admin-ritkolautsa/static/css/main.186f4810.css.map",
+    "main.ae702b0b.js.map": "/github.io/admin-ritkolautsa/static/js/main.ae702b0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.186f4810.css",
+    "static/js/main.ae702b0b.js"
+  ]
+}
